@@ -1,4 +1,4 @@
-# This is a simple README file
-# Diana Linville 
+# This is a simple Python file
+# Diana Linville
 
 we will change this to demonstrate merge conflicts!
